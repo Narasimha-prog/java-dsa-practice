@@ -1,2 +1,2 @@
 # java-dsa-practice
-To practice dsa 
+to practice dsa
